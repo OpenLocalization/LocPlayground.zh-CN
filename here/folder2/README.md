@@ -1,10 +1,10 @@
 ﻿# 笑话
 
-老师:"孩子们，做鸡给你什么?"
-学生:"肉!"
-老师:"很好! Now what does the pig give you?"
-学生:"培根!"
-老师:"太好了! And what does the fat cow give you?"
-学生:"作业!"
+老师：“小盆友们，鸡提供给我们什么？”"
+Student: "Meat!"
+Teacher: "Very good! Now what does the pig give you?"
+Student: "Bacon!"
+Teacher: "Great! And what does the fat cow give you?"
+Student: "Homework!"
 
-世界您好
+Hello World
